@@ -1,2 +1,2 @@
 # MCU_control_relay
-Using an MCU to control a relay
+Using an Seeeduino XIAO to control a relay
